@@ -1,0 +1,1 @@
+This was my first reel coding project. I learned a lot from it. The code ended up pretty bad. The code will execute in approx a month, if it is used on the database it is made for, but all logic in the code works as intended though.
